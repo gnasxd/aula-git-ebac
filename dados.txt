@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: guilherme augusto
+-Profissão: vistoriador
+-Cidade: são paulo
+-O que faz nas horas vaga: jogar volei, tocar violão, estudar e jogar jogos
+-Feedback sobre o curso Qualidade de Software: estou gostando muito até o momento
+-Feedback sobre a plataforma de estudo da EBAC: achei uma plataforma muito boa ate agr
 
 Obrigado!!!
 
